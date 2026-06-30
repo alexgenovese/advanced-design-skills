@@ -1,0 +1,15 @@
+{
+  "name": "advanced-design-skills",
+  "version": "1.0.0",
+  "description": "Premium design matching & buttery-smooth animations for coding agents based on Google's DESIGN.md specification.",
+  "keywords": [
+    "agent-skills",
+    "design-system",
+    "design.md",
+    "animations",
+    "ui-ux",
+    "tailwind"
+  ],
+  "author": "Alex Genovese",
+  "license": "MIT"
+}
